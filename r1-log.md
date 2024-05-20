@@ -16,4 +16,7 @@ Today's Progress: Solved Strivers A2Z DSA Sheet
 - Sorting-2 : Recursive Bubble Sort, Recursive Insertion Sort. 
 - Array-easy: Largest Element in an Array, Second Largest Element in an Array without sorting on GFG.
 
+### Day 4: May 20, 2024
 
+Today's Progress: Solved Strivers A2Z DSA Sheet Problems : 
+- Arrays: Check if Array Is Sorted and Rotated, Two Sum.
