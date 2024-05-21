@@ -20,3 +20,8 @@ Today's Progress: Solved Strivers A2Z DSA Sheet
 
 Today's Progress: Solved Strivers A2Z DSA Sheet Problems : 
 - Arrays: Check if Array Is Sorted and Rotated, Two Sum.
+
+### Day 5: May 21, 2024
+
+Today's Progress: Solved Strivers A2Z DSA Sheet Problems : 
+- Arrays: Remove Duplicates from Sorted Array.
