@@ -25,3 +25,8 @@ Today's Progress: Solved Strivers A2Z DSA Sheet Problems :
 
 Today's Progress: Solved Strivers A2Z DSA Sheet Problems : 
 - Arrays: Remove Duplicates from Sorted Array.
+
+### Day 6: May 22, 2024
+
+Today's Progress: Solved Strivers A2Z DSA Sheet Problems : 
+- Arrays: Max Consecutive Ones.
