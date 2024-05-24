@@ -30,3 +30,8 @@ Today's Progress: Solved Strivers A2Z DSA Sheet Problems :
 
 Today's Progress: Solved Strivers A2Z DSA Sheet Problems : 
 - Arrays: Max Consecutive Ones.
+
+### Day 7: May 24, 2024
+
+Today's Progress: Solved Strivers A2Z DSA Sheet :  
+- Arrays: Left rotate array by one place , Left rotate array by D places.
