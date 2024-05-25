@@ -35,3 +35,8 @@ Today's Progress: Solved Strivers A2Z DSA Sheet Problems :
 
 Today's Progress: Solved Strivers A2Z DSA Sheet :  
 - Arrays: Left rotate array by one place , Left rotate array by D places.
+
+### Day 8: May 25, 2024
+
+Today's Progress: Solved Strivers A2Z DSA Sheet :  
+- Arrays: Move zeros to left, Find Union.
