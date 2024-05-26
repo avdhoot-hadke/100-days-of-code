@@ -40,3 +40,8 @@ Today's Progress: Solved Strivers A2Z DSA Sheet :
 
 Today's Progress: Solved Strivers A2Z DSA Sheet :  
 - Arrays: Move zeros to left, Find Union.
+
+### Day 9: May 26, 2024
+
+Today's Progress: Solved Strivers A2Z DSA Sheet :  
+- Arrays: Missing number.
