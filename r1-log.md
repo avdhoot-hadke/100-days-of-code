@@ -45,3 +45,8 @@ Today's Progress: Solved Strivers A2Z DSA Sheet :
 
 Today's Progress: Solved Strivers A2Z DSA Sheet :  
 - Arrays: Missing number.
+
+### Day 10: May 28, 2024
+
+Today's Progress: Solved Strivers A2Z DSA Sheet :  
+- Arrays: Find the number that appears once, and other numbers twice.
