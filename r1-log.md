@@ -56,3 +56,12 @@ Today's Progress: Solved Strivers A2Z DSA Sheet :
 Today's Progress: Solved Strivers A2Z DSA Sheet :  
 - Arrays: Longest subarray with given sum K(positives).
 
+
+### Day 12: May 31, 2024
+
+Today's Progress: 
+
+1. Dsa: (Medium)Sort an array of 0's 1's and 2's
+
+2. Dev: Practiced map, filter, and reduce functions
+
