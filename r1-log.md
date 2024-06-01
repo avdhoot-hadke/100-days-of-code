@@ -65,3 +65,13 @@ Today's Progress:
 
 2. Dev: Practiced map, filter, and reduce functions
 
+
+
+### Day 13: June 1, 2024
+
+Today's Progress: 
+
+1. Dsa:  LC-  Score of String.
+
+2. Dev: Practiced Mysql and express
+
