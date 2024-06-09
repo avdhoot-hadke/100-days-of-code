@@ -79,3 +79,7 @@ Today's Progress:
 Today's Progress: Practice MongoDB, Mongoose , Revise OOPS concepts for interview
 
 
+### Day 15: June 9, 2024
+
+Today's Progress: 
+1. Dsa: Majority Element, Maximum Subarray (Kadane's Algo)
