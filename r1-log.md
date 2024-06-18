@@ -89,3 +89,8 @@ Today's Progress:
 Today's Progress: 
 1. Dsa: Stock Buy and Sell, Rearrange Array Elements by Sign.
 
+
+### Day 17: June 18, 2024
+
+Today's Progress: 
+1. Dsa: Next permutation, Leaders in array problem.
