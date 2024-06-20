@@ -94,3 +94,10 @@ Today's Progress:
 
 Today's Progress: 
 1. Dsa: Next permutation, Leaders in array problem.
+
+
+### Day 18: June 20, 2024
+
+Today's Progress: 
+1. Dsa: Set Matrix Zeroes (Medium)
+2. Dev: Built sign in page in project
