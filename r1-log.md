@@ -101,3 +101,9 @@ Today's Progress:
 Today's Progress: 
 1. Dsa: Set Matrix Zeroes (Medium)
 2. Dev: Built sign in page in project
+
+
+### Day 19: June 26, 2024
+
+Today's Progress: 
+1. Dev: revised Next js (fetching & server actions), sql queries , react hooks for interview.
