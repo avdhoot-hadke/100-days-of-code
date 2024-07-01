@@ -107,3 +107,9 @@ Today's Progress:
 
 Today's Progress: 
 1. Dev: revised Next js (fetching & server actions), sql queries , react hooks for interview.
+
+### Day 20: July 1, 2024
+
+Today's Progress: 
+1. Dev: Next js :  Server side rendering, Client side rendering  and Static site generation.
+
