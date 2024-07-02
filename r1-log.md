@@ -113,3 +113,9 @@ Today's Progress:
 Today's Progress: 
 1. Dev: Next js :  Server side rendering, Client side rendering  and Static site generation.
 
+### Day 21: July 2, 2024
+
+Today's Progress: 
+1. DSA:  Rotate image (lc - 48. , medium)
+
+
