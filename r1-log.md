@@ -122,3 +122,9 @@ Today's Progress:
 
 Today's Progress: 
 1. Dev:  Medium website
+
+### Day 23: July 19, 2024
+
+Today's Progress: 
+1. DSA:  Spiral Matrix (medium)
+
