@@ -118,4 +118,7 @@ Today's Progress:
 Today's Progress: 
 1. DSA:  Rotate image (lc - 48. , medium)
 
+### Day 22: July 18, 2024
 
+Today's Progress: 
+1. Dev:  Medium website
