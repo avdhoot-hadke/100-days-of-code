@@ -128,3 +128,8 @@ Today's Progress:
 Today's Progress: 
 1. DSA:  Spiral Matrix (medium)
 
+### Day 24: July 23, 2024
+
+Today's Progress: 
+1. DSA:  Longest Consecutive Sequence (medium)
+
