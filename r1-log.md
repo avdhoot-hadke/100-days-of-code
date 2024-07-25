@@ -133,3 +133,8 @@ Today's Progress:
 Today's Progress: 
 1. DSA:  Longest Consecutive Sequence (medium)
 
+### Day 25: July 25, 2024
+
+Today's Progress: 
+1. DSA:  Subarray Sum Equals K (medium)
+
