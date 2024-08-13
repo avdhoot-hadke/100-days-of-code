@@ -138,3 +138,8 @@ Today's Progress:
 Today's Progress: 
 1. DSA:  Subarray Sum Equals K (medium)
 
+### Day 26: August 13, 2024
+
+Today's Progress: 
+1. DSA:  Binary Search
+
