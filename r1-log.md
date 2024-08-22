@@ -143,3 +143,8 @@ Today's Progress:
 Today's Progress: 
 1. DSA:  Binary Search
 
+### Day 27: August 22, 2024
+
+Today's Progress: 
+1. DSA:  (Binary Search)  Lower Bound, Upper Bound, Search Insert Position
+
