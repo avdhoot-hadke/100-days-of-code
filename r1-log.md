@@ -148,3 +148,8 @@ Today's Progress:
 Today's Progress: 
 1. DSA:  (Binary Search)  Lower Bound, Upper Bound, Search Insert Position
 
+### Day 28: August 25, 2024
+
+Today's Progress: 
+1. DSA:  Find First and Last Position of Element in Sorted Array
+
