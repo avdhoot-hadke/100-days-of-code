@@ -157,6 +157,11 @@ Today's Progress:
 
 Today's Progress: 
 1. DSA: Search in Rotated Sorted Array I and Search in Rotated Sorted Array II
+
+### Day 30: August 27, 2024
+
+Today's Progress: 
+1. DSA:  Find Minimum in Rotated Sorted Array & Find Kth Rotation
    
 
 
