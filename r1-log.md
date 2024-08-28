@@ -163,5 +163,9 @@ Today's Progress:
 Today's Progress: 
 1. DSA:  Find Minimum in Rotated Sorted Array & Find Kth Rotation
    
+Day 31: August 28, 2024
 
+Today's Progress:
+
+DSA: Single element in a Sorted Array & Find peak element
 
