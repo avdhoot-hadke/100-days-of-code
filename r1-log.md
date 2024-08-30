@@ -163,9 +163,16 @@ Today's Progress:
 Today's Progress: 
 1. DSA:  Find Minimum in Rotated Sorted Array & Find Kth Rotation
    
-Day 31: August 28, 2024
+### Day 31: August 28, 2024
 
 Today's Progress:
 
-DSA: Single element in a Sorted Array & Find peak element
+1. DSA: Single element in a Sorted Array & Find peak element
+
+### Day 32: August 30, 2024
+
+Today's Progress: 
+
+1. DSA: Find square root of a number in O(log n)
+2. DEV: Revised Next js concepts for the interview (SSR , CSR, SSG , server actions)
 
