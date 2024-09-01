@@ -176,3 +176,8 @@ Today's Progress:
 1. DSA: Find square root of a number in O(log n)
 2. DEV: Revised Next js concepts for the interview (SSR , CSR, SSG , server actions)
 
+### Day 33: September 1, 2024
+
+Today's Progress: 
+
+1. DSA: Find the Nth root of a number using binary search.
