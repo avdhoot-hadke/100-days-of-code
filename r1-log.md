@@ -181,3 +181,11 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Find the Nth root of a number using binary search.
+
+
+### Day 34: September 5, 2024
+
+Today's Progress: 
+
+1. DSA:  Koko Eating Bananas (Medium)
+
