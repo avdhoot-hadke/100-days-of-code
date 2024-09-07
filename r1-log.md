@@ -189,3 +189,9 @@ Today's Progress:
 
 1. DSA:  Koko Eating Bananas (Medium)
 
+### Day 35: September 7, 2024
+
+Today's Progress: 
+
+1. DSA: Minimum days to make M bouquets and Find the smallest Divisor
+
