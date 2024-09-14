@@ -195,3 +195,8 @@ Today's Progress:
 
 1. DSA: Minimum days to make M bouquets and Find the smallest Divisor
 
+### Day 36: September 14, 2024
+
+Today's Progress: 
+
+1. DSA: Kth Missing Positive Number in O(log n) time
