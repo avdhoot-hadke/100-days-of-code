@@ -200,3 +200,9 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Kth Missing Positive Number in O(log n) time
+   
+### Day 37: September 15, 2024
+
+Today's Progress: 
+
+1. DSA: Binary search - Capacity To Ship Packages Within D Days
