@@ -206,3 +206,9 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Binary search - Capacity To Ship Packages Within D Days
+
+### Day 38: September 17, 2024
+
+Today's Progress: 
+
+1. DSA: Find the row with maximum number of 1's
