@@ -212,3 +212,9 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Find the row with maximum number of 1's
+
+### Day 39: September 18, 2024
+
+Today's Progress: 
+
+1. DSA: Search in a 2 D matrix
