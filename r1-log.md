@@ -218,3 +218,9 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Search in a 2 D matrix
+
+### Day 40: September 22, 2024
+
+Today's Progress: 
+
+1. DSA: Search a 2D Matrix II
