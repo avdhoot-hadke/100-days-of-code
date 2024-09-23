@@ -224,3 +224,9 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Search a 2D Matrix II
+
+### Day 41: September 23, 2024
+
+Today's Progress: 
+
+1. DSA: Array to Linked List and Inserting a node in LinkedList
