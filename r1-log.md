@@ -230,3 +230,10 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Array to Linked List and Inserting a node in LinkedList
+
+### Day 42: September 24, 2024
+
+Today's Progress: 
+
+1. DSA: Count Linked List Node & Delete Node in a Linked List
+
