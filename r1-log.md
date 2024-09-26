@@ -237,3 +237,8 @@ Today's Progress:
 
 1. DSA: Count Linked List Node & Delete Node in a Linked List
 
+### Day 43: September 26, 2024
+
+Today's Progress: 
+
+1. DSA: Search an element in the LL, Introduction to Doubly Linked List & Doubly linked list Insertion at given position.
