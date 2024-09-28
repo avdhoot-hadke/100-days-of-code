@@ -242,3 +242,9 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Search an element in the LL, Introduction to Doubly Linked List & Doubly linked list Insertion at given position.
+
+### Day 44: September 28, 2024
+
+Today's Progress: 
+
+1. DSA: Delete a node in DLL & Reverse a DLL.
