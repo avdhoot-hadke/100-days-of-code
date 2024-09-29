@@ -248,3 +248,9 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Delete a node in DLL & Reverse a DLL.
+
+### Day 45: September 29, 2024
+
+Today's Progress: 
+
+1. DSA: Middle of a LinkedList [TortoiseHare Method] & Reverse a LinkedList [Iterative]
