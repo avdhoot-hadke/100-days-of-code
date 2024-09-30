@@ -254,3 +254,9 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Middle of a LinkedList [TortoiseHare Method] & Reverse a LinkedList [Iterative]
+
+### Day 46: September 30, 2024
+
+Today's Progress: 
+
+1. DSA: Reverse a LL [Recursive] & Detect a loop in LL.
