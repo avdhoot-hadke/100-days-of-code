@@ -260,3 +260,10 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Reverse a LL [Recursive] & Detect a loop in LL.
+
+### Day 47: October, 2024
+
+Today's Progress: 
+
+1. DSA: Find the starting point of loop in LL &  Length of Loop in LL.
+
