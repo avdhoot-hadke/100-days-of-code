@@ -261,9 +261,14 @@ Today's Progress:
 
 1. DSA: Reverse a LL [Recursive] & Detect a loop in LL.
 
-### Day 47: October, 2024
+### Day 47: October 2, 2024
 
 Today's Progress: 
 
 1. DSA: Find the starting point of loop in LL &  Length of Loop in LL.
 
+### Day 48: October 3, 2024
+
+Today's Progress: 
+
+1. DSA: Check if LL is palindrome or not.
