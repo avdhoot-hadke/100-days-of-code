@@ -272,3 +272,10 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Check if LL is palindrome or not.
+
+### Day 49: October 5, 2024
+
+Today's Progress: 
+
+1. DSA: Segrregate odd and even nodes in LL
+
