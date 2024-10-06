@@ -279,3 +279,8 @@ Today's Progress:
 
 1. DSA: Segrregate odd and even nodes in LL
 
+### Day 50: October 7, 2024
+
+Today's Progress: 
+
+1. DSA: Remove Nth Node From End of List
