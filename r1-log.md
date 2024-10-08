@@ -290,3 +290,10 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Delete the middle node of LL & Find the intersection point of Y LL
+
+### Day 52: October 8, 2024
+
+Today's Progress: 
+
+1. DSA: Add 2 numbers in LL
+
