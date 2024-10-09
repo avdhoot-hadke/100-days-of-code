@@ -297,3 +297,8 @@ Today's Progress:
 
 1. DSA: Add 2 numbers in LL
 
+### Day 53: October 9, 2024
+
+Today's Progress: 
+
+1. DSA: Delete all occurrences of a key in DLL
