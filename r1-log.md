@@ -308,3 +308,9 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Revised recursion & solved all the basic recursion problems in strivers dsa sheet.
+
+### Day 55: October 14, 2024
+
+Today's Progress: 
+
+1. DSA: Implemented Pow(x, n).
