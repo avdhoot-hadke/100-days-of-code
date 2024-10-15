@@ -314,3 +314,9 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Implemented Pow(x, n).
+
+### Day 56: October 15, 2024
+
+Today's Progress: 
+
+1. DSA:  Merge two sorted list.
