@@ -320,3 +320,9 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA:  Merge two sorted list.
+
+### Day 57: October 26, 2024
+
+Today's Progress: 
+
+1. DSA:  Solved patterns problems in recursion and iteration.
