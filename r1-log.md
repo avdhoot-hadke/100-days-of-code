@@ -326,3 +326,10 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA:  Solved patterns problems in recursion and iteration.
+
+### Day 58: October 29, 2024
+
+Today's Progress: 
+
+1. DSA:  Recursion - Subsequence and Permutations  concept and implementation.
+
