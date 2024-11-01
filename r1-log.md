@@ -338,3 +338,10 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA:   LC - 17. Letter Combinations of a Phone Number
+
+### Day 60: November 1, 2024
+
+Today's Progress: 
+
+1. DSA: LC - 1155. Number of Dice Rolls With Target Sum.
+
