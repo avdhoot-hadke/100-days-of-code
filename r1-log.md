@@ -345,3 +345,9 @@ Today's Progress:
 
 1. DSA: LC - 1155. Number of Dice Rolls With Target Sum.
 
+
+### Day 61: November 4, 2024
+
+Today's Progress: 
+
+1. DSA: DSA:  Maze problem and Backtracking.
