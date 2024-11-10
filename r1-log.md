@@ -353,8 +353,16 @@ Today's Progress:
 1. DSA:  Maze problem and Backtracking.
 
 
-### Day 62: November 10, 2024
+### Day 62: November 6, 2024
+
+Today's Progress: 
+
+1. DSA:  N-Queens Problem.
+
+
+### Day 63: November 10, 2024
 
 Today's Progress: 
 
 1. DSA:  N-Knights Problem.
+
