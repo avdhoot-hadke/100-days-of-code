@@ -364,5 +364,5 @@ Today's Progress:
 
 Today's Progress: 
 
-1. DSA:  N-Knights Problem.
+1. DSA: N-Knights Problem.
 
