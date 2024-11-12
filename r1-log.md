@@ -366,3 +366,8 @@ Today's Progress:
 
 1. DSA: N-Knights Problem.
 
+### Day 64: November 12, 2024
+
+Today's Progress: 
+
+1. DSA:   Generate all binary string without consecutive one.
