@@ -371,3 +371,11 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA:   Generate all binary string without consecutive one.
+
+### Day 65: November 14, 2024
+
+Today's Progress: 
+
+1. DSA:  Generate Parentheses & Subsets
+
+
