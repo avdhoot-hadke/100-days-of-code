@@ -409,3 +409,8 @@ Today's Progress:
 
 1. DSA: Palindrome Partitioning
 
+### Day 71: November 23, 2024
+
+Today's Progress: 
+
+1. DSA: Word Search
