@@ -414,3 +414,10 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Word Search
+
+### Day 72: November 24, 2024
+
+Today's Progress: 
+
+1. DSA: Sudoku Solver
+
