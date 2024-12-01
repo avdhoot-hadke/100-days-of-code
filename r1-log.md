@@ -434,5 +434,9 @@ Today's Progress:
 
 1. DSA: Valid Anagram, Rotate String, Isomorphic Strings and Longest common prefix.
 
+### Day 75: December 1, 2024
 
+Today's Progress: 
+
+1. DSA: Longest Palindromic Substring, Roman to Integer and Maximum Nesting Depth of the Parentheses.
 
