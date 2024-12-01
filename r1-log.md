@@ -427,3 +427,12 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Longest Common Prefix & Largest Odd Number in String
+
+### Day 74: November 30, 2024
+
+Today's Progress: 
+
+1. DSA: Valid Anagram, Rotate String, Isomorphic Strings and Longest common prefix.
+
+
+
