@@ -440,3 +440,8 @@ Today's Progress:
 
 1. DSA: Longest Palindromic Substring, Roman to Integer and Maximum Nesting Depth of the Parentheses.
 
+### Day 76: December 2, 2024
+
+Today's Progress: 
+
+1. DSA: Reverse Words in a String and  Sum of Beauty of All Substrings.
