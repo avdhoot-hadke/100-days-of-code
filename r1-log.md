@@ -452,3 +452,8 @@ Today's Progress:
 
 1. DSA: Set/Unset the rightmost unset bit, Divide Two Integers, Count the number of set bits and Check if a number is power of 2 or not
 
+### Day 78: December 16, 2024
+
+Today's Progress: 
+
+1. DSA: Single Number & Minimum Bit Flips to Convert Number.
