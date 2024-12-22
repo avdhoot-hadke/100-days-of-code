@@ -457,3 +457,9 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Single Number & Minimum Bit Flips to Convert Number.
+
+### Day 79: December 22, 2024
+
+Today's Progress: 
+
+1. DSA: Find XOR of numbers from L to R & Single Number III.
