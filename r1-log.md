@@ -463,3 +463,10 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Find XOR of numbers from L to R & Single Number III.
+
+### Day 80: December 23, 2024
+
+Today's Progress: 
+
+1. DSA: Sieve of Eratosthenes, Prime Factors of a Number, All Divisors of a Number &  Power(n, x)
+
