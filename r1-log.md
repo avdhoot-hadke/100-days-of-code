@@ -470,3 +470,8 @@ Today's Progress:
 
 1. DSA: Sieve of Eratosthenes, Prime Factors of a Number, All Divisors of a Number &  Power(n, x)
 
+### Day 81: December 24, 2024
+
+Today's Progress: 
+
+1. DSA: DSA: Revised Stack Data Structure, Implement Stack  and Implement Queue.
