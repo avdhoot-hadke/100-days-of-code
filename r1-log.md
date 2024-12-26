@@ -474,4 +474,11 @@ Today's Progress:
 
 Today's Progress: 
 
-1. DSA: DSA: Revised Stack Data Structure, Implement Stack  and Implement Queue.
+1. DSA: Revised Stack Data Structure, Implement Stack  and Implement Queue.
+
+### Day 82: December 26, 2024
+
+Today's Progress: 
+
+1. DSA: Min stack & Valid Parentheses.
+
