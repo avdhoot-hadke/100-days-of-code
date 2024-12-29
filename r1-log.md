@@ -482,3 +482,10 @@ Today's Progress:
 
 1. DSA: Min stack & Valid Parentheses.
 
+### Day 83: December 29, 2024
+
+Today's Progress: 
+
+1. DSA: Stack -  Infix to Postfix & Infix to Prefix.
+
+
