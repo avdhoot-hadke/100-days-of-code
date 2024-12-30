@@ -488,4 +488,8 @@ Today's Progress:
 
 1. DSA: Stack -  Infix to Postfix & Infix to Prefix.
 
+### Day 84: December 30, 2024
 
+Today's Progress: 
+
+1. DSA: Stack - Postfix to Infix  & Prefix to Infix.
