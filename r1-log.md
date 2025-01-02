@@ -493,3 +493,10 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Stack - Postfix to Infix  & Prefix to Infix.
+
+### Day 85: January 2, 2024
+
+Today's Progress: 
+
+1. DSA: Next Greater Element I  & Next Greater Element II.
+
