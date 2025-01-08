@@ -500,3 +500,11 @@ Today's Progress:
 
 1. DSA: Next Greater Element I  & Next Greater Element II.
 
+
+### Day 86: January 8, 2024
+
+Today's Progress: 
+
+1. DSA: Trapping Rain Water  & Sum of Subarray Minimums.
+
+
