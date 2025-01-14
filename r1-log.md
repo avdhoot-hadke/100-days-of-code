@@ -507,4 +507,14 @@ Today's Progress:
 
 1. DSA: Trapping Rain Water  & Sum of Subarray Minimums.
 
+### Day 87: January 11, 2024
+
+Today's Progress: 
+
+1. DSA: Asteroid Collision & Sum of Subarray Ranges.
+
+
+
+
+
 
