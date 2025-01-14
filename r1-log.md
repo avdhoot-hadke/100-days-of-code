@@ -513,8 +513,8 @@ Today's Progress:
 
 1. DSA: Asteroid Collision & Sum of Subarray Ranges.
 
+### Day 88: January 14, 2024
 
+Today's Progress: 
 
-
-
-
+1. DSA: Remove k Digits & Largest rectangle in a histogram.
