@@ -518,3 +518,9 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Remove k Digits & Largest rectangle in a histogram.
+
+### Day 89: January 22, 2024
+
+Today's Progress: 
+
+1. DSA: Longest Substring Without Repeating Characters & Max Consecutive Ones III.
