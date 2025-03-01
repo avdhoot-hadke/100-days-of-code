@@ -540,3 +540,9 @@ Today's Progress:
 
 1. DSA: Count Number of Nice Subarrays, Number of Substrings Containing All Three Characters & Maximum Points You Can Obtain from Cards
 
+### Day 92: March 2, 2024
+
+Today's Progress: 
+
+1. DSA: (Greedy Algo) Assign Cookies & Lemonade Change.
+
