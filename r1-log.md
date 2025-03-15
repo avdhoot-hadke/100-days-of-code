@@ -552,3 +552,10 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Valid Parenthesis String , Jump Game & Jump Game 2.
+
+
+### Day 94: March 15, 2024
+
+Today's Progress: 
+
+1. DSA: Insert Interval, Merge Interval and Non-overlapping Intervals
