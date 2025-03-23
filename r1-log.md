@@ -559,3 +559,11 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Insert Interval, Merge Interval and Non-overlapping Intervals
+
+
+
+### Day 95: March 23, 2024
+
+Today's Progress: 
+
+1. DSA: Iterative Binary Tree traversal, Diameter of BT,  BT max path sum and Vertical order traversal.
