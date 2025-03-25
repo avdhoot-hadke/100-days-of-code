@@ -567,3 +567,11 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Iterative Binary Tree traversal, Diameter of BT,  BT max path sum and Vertical order traversal.
+
+
+### Day 96: March 25, 2024
+
+Today's Progress: 
+
+1. DSA: Top View of Binary Tree, Bottom View of BT,  Right Side View of BT and Symmetric Tree
+
