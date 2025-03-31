@@ -575,3 +575,9 @@ Today's Progress:
 
 1. DSA: Top View of Binary Tree, Bottom View of BT,  Right Side View of BT and Symmetric Tree
 
+
+### Day 97: March 31, 2024
+
+Today's Progress: 
+
+1. DSA: Search in Binary Search Tree, Find Min in BST, Ceil in BST, Floor in BST, Insert in BST and Delete from BST.
