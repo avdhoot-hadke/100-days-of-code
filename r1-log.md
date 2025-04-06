@@ -494,39 +494,39 @@ Today's Progress:
 
 1. DSA: Stack - Postfix to Infix  & Prefix to Infix.
 
-### Day 85: January 2, 2024
+### Day 85: January 2, 2025
 
 Today's Progress: 
 
 1. DSA: Next Greater Element I  & Next Greater Element II.
 
 
-### Day 86: January 8, 2024
+### Day 86: January 8, 2025
 
 Today's Progress: 
 
 1. DSA: Trapping Rain Water  & Sum of Subarray Minimums.
 
-### Day 87: January 11, 2024
+### Day 87: January 11, 2025
 
 Today's Progress: 
 
 1. DSA: Asteroid Collision & Sum of Subarray Ranges.
 
-### Day 88: January 14, 2024
+### Day 88: January 14, 2025
 
 Today's Progress: 
 
 1. DSA: Remove k Digits & Largest rectangle in a histogram.
 
-### Day 89: January 22, 2024
+### Day 89: January 22, 2025
 
 Today's Progress: 
 
 1. DSA: Longest Substring Without Repeating Characters & Max Consecutive Ones III.
 
 
-### Day 90: January 26, 2024
+### Day 90: January 26, 2025
 
 Today's Progress: 
 
@@ -534,27 +534,27 @@ Today's Progress:
 
 
 
-### Day 91: February 10, 2024
+### Day 91: February 10, 2025
 
 Today's Progress: 
 
 1. DSA: Count Number of Nice Subarrays, Number of Substrings Containing All Three Characters & Maximum Points You Can Obtain from Cards
 
-### Day 92: March 2, 2024
+### Day 92: March 2, 2025
 
 Today's Progress: 
 
 1. DSA: (Greedy Algo) Assign Cookies & Lemonade Change.
 
 
-### Day 93: March 7, 2024
+### Day 93: March 7, 2025
 
 Today's Progress: 
 
 1. DSA: Valid Parenthesis String , Jump Game & Jump Game 2.
 
 
-### Day 94: March 15, 2024
+### Day 94: March 15, 2025
 
 Today's Progress: 
 
@@ -562,22 +562,29 @@ Today's Progress:
 
 
 
-### Day 95: March 23, 2024
+### Day 95: March 23, 2025
 
 Today's Progress: 
 
 1. DSA: Iterative Binary Tree traversal, Diameter of BT,  BT max path sum and Vertical order traversal.
 
 
-### Day 96: March 25, 2024
+### Day 96: March 25, 2025
 
 Today's Progress: 
 
 1. DSA: Top View of Binary Tree, Bottom View of BT,  Right Side View of BT and Symmetric Tree
 
 
-### Day 97: March 31, 2024
+### Day 97: March 31, 2025
 
 Today's Progress: 
 
 1. DSA: Search in Binary Search Tree, Find Min in BST, Ceil in BST, Floor in BST, Insert in BST and Delete from BST.
+
+### Day 98: April 02, 2025
+
+Today's Progress: 
+
+1. DSA: Kth Smallest Element in a BST, Lowest Common Ancestor of a BST, Validate Binary Search Tree.
+
