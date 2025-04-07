@@ -588,8 +588,16 @@ Today's Progress:
 
 1. DSA: Kth Smallest Element in a BST, Lowest Common Ancestor of a BST, Validate Binary Search Tree.
 
-### Day 99: April 07, 2025
+### Day 99: April 06, 2025
 
 Today's Progress: 
 
 1. DSA: Climbing Stairs, Frog Jump, Minimal Cost, House Robber & House Robber II.
+
+
+### Day 100: April 08, 2025
+
+Today's Progress: 
+
+1. DSA: Unique Paths, Unique Paths II & Geek's Training.
+
