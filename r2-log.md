@@ -14,3 +14,9 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: DP Hard  problem (Chocolates Pickup).
+
+### Day 3: April 20, 2025
+
+Today's Progress: 
+
+1. DSA: Best Time to Buy and Sell Stock I & II.
