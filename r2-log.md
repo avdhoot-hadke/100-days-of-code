@@ -26,3 +26,9 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Best Time to Buy and Sell Stock III & IV.
+
+### Day 5: April 25, 2025
+
+Today's Progress: 
+
+1. DSA: Best Time to Buy and Sell Stock with Transaction Fee & Subset sum equals to target.
