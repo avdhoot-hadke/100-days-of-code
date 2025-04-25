@@ -20,3 +20,9 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Best Time to Buy and Sell Stock I & II.
+
+### Day 4: April 24, 2025
+
+Today's Progress: 
+
+1. DSA: Best Time to Buy and Sell Stock III & IV.
