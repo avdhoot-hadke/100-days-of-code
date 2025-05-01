@@ -32,3 +32,10 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Best Time to Buy and Sell Stock with Transaction Fee & Subset sum equals to target.
+
+### Day 6: May 1, 2025
+
+Today's Progress: 
+
+1. DSA: Partition equal subset sum, Count subsets with sum K, 0 and 1 Knapsack & Minimum coins.
+
