@@ -39,3 +39,11 @@ Today's Progress:
 
 1. DSA: Partition equal subset sum, Count subsets with sum K, 0 and 1 Knapsack & Minimum coins.
 
+
+### Day 7: May 3, 2025
+
+Today's Progress: 
+
+1. DSA: Rod cutting problem & Unbounded knapsack.
+
+
