@@ -46,4 +46,11 @@ Today's Progress:
 
 1. DSA: Rod cutting problem & Unbounded knapsack.
 
+### Day 8: May 4, 2025
+
+Today's Progress: 
+
+1. DSA: Longest Increasing Subsequence & Print Longest Increasing Subsequence.
+
+
 
