@@ -59,4 +59,8 @@ Today's Progress:
 
 1. DSA: Longest Common Subsequence & Longest common substring.
 
+### Day 10: May 18, 2025
 
+Today's Progress: 
+
+1. DSA: Longest palindromic subsequence & Minimum insertions to make string palindrome.
