@@ -70,3 +70,10 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA:  Shortest common supersequence &  Delete Operation for Two Strings.
+
+### Day 12: May 22, 2025
+
+Today's Progress: 
+
+1. DSA:  Partition Array for Maximum Sum.
+
