@@ -77,3 +77,8 @@ Today's Progress:
 
 1. DSA:  Partition Array for Maximum Sum.
 
+### Day 13: May 24, 2025
+
+Today's Progress: 
+
+1. DSA:  All Possible Full Binary Trees.
