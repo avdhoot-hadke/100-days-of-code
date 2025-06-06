@@ -113,3 +113,9 @@ Today's Progress:
 
 1. DSA: Number of distinct islands II & Surrounded Regions.
 
+### Day 18: June 6, 2025
+
+Today's Progress: 
+
+1. DSA: Detect a cycle in a directed graph, Detect a cycle in a Undirected graph & Topological sort or Kahn's algorithm.
+
