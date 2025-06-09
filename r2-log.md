@@ -123,5 +123,10 @@ Today's Progress:
 
 Today's Progress: 
 
-1. DSA:  Course Schedule I, Course Schedule II & Alien Dictionary.
+1. DSA: Course Schedule I, Course Schedule II & Alien Dictionary.
 
+### Day 21: June 9, 2025
+
+Today's Progress: 
+
+1. DSA: Shortest path in DAG & Shortest path in undirected graph with unit weights.
