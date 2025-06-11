@@ -130,3 +130,10 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Shortest path in DAG & Shortest path in undirected graph with unit weights.
+
+### Day 22: June 11, 2025
+
+Today's Progress: 
+
+1. DSA: Word ladder I & Word ladder II.
+
