@@ -137,3 +137,8 @@ Today's Progress:
 
 1. DSA: Word ladder I & Word ladder II.
 
+### Day 23: June 12, 2025
+
+Today's Progress: 
+
+1. DSA: Linked List Cycle II, Remove nth Node from the End of List and Find the Duplicate Number.
