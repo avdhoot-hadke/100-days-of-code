@@ -162,3 +162,11 @@ Today's Progress:
 
 1. DSA: Maximum Product Subarray & Product of Array Except Self.
 
+
+### Day 27: June 29, 2025
+
+Today's Progress: 
+
+1. DSA:  Partition String &  Longest Common Prefix Between Adjacent Strings After Removals.
+
+
