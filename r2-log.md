@@ -167,6 +167,12 @@ Today's Progress:
 
 Today's Progress: 
 
-1. DSA:  Partition String &  Longest Common Prefix Between Adjacent Strings After Removals.
+1. DSA: Partition String &  Longest Common Prefix Between Adjacent Strings After Removals.
 
+
+### Day 28: June 30, 2025
+
+Today's Progress: 
+
+1. DSA: Number of ways to split array & Range Sum Query 2D.
 
