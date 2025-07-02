@@ -176,3 +176,9 @@ Today's Progress:
 
 1. DSA: Number of ways to split array & Range Sum Query 2D.
 
+
+### Day 29: July 2, 2025
+
+Today's Progress: 
+
+1. DSA: Repeated DNA Sequences & Permutation in String.
