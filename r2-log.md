@@ -189,4 +189,11 @@ Today's Progress:
 
 1. DSA: Permutation in String & Sliding Subarray Beauty.
 
+### Day 31: July 6, 2025
+
+Today's Progress: 
+
+1. DSA: Max Consecutive Ones III, Subarray Product Less Than K, Minimum Size Subarray Sum &  Longest Substring Without Repeating Characters.
+
+
 
