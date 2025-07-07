@@ -195,5 +195,10 @@ Today's Progress:
 
 1. DSA: Max Consecutive Ones III, Subarray Product Less Than K, Minimum Size Subarray Sum &  Longest Substring Without Repeating Characters.
 
+### Day 32: July 7, 2025
+
+Today's Progress: 
+
+1. DSA: Count Number of Nice Subarrays & Fruit Into Baskets.
 
 
