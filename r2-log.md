@@ -201,4 +201,8 @@ Today's Progress:
 
 1. DSA: Count Number of Nice Subarrays & Fruit Into Baskets.
 
+### Day 33: July 9, 2025
 
+Today's Progress: 
+
+1. DSA: Sort Colors & Two Sum II - Input Array Is Sorted.
