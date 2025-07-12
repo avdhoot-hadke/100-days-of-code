@@ -206,3 +206,10 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Sort Colors & Two Sum II - Input Array Is Sorted.
+
+### Day 34: July 12, 2025
+
+Today's Progress: 
+
+1. DSA: Trapping Rain Water, Container With Most Water & Bag of Tokens.
+
