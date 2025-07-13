@@ -213,3 +213,9 @@ Today's Progress:
 
 1. DSA: Trapping Rain Water, Container With Most Water & Bag of Tokens.
 
+### Day 35: July 13, 2025
+
+Today's Progress: 
+
+1. DSA: Process String with Special Operations I, Find All Numbers Disappeared in an Array & Missing Number.
+
