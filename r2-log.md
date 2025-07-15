@@ -219,8 +219,17 @@ Today's Progress:
 
 1. DSA: Process String with Special Operations I, Find All Numbers Disappeared in an Array & Missing Number.
 
-### Day 36: July 15, 2025
+### Day 36: July 14, 2025
 
 Today's Progress: 
 
 1. DSA: First Missing Positive,  Find All Numbers Disappeared in an Array & Set Mismatch.
+
+### Day 37: July 15, 2025
+
+Today's Progress: Swap Nodes in Pairs & Reverse Linked List.
+
+1. DSA: First Missing Positive,  Find All Numbers Disappeared in an Array & Set Mismatch.
+
+
+
