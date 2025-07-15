@@ -229,7 +229,7 @@ Today's Progress:
 
 Today's Progress: Swap Nodes in Pairs & Reverse Linked List.
 
-1. DSA: First Missing Positive,  Find All Numbers Disappeared in an Array & Set Mismatch.
+1. DSA: Swap Nodes in Pairs & Reverse Linked List.
 
 
 
