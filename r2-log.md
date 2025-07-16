@@ -227,9 +227,14 @@ Today's Progress:
 
 ### Day 37: July 15, 2025
 
-Today's Progress: Swap Nodes in Pairs & Reverse Linked List.
+Today's Progress:
 
 1. DSA: Swap Nodes in Pairs & Reverse Linked List.
 
+### Day 38: July 16, 2025
+
+Today's Progress: 
+
+1. DSA: Reverse Nodes in k-Group &  Rotate Image.
 
 
