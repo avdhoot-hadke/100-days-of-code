@@ -237,4 +237,8 @@ Today's Progress:
 
 1. DSA: Reverse Nodes in k-Group &  Rotate Image.
 
+### Day 39: July 17, 2025
 
+Today's Progress: 
+
+1. DSA: Spiral Matrix & Set Matrix Zeroes.
