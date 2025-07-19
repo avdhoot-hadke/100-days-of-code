@@ -247,5 +247,5 @@ Today's Progress:
 
 Today's Progress: 
 
-1. DSA: Split Array by Prime Indices, Count Islands With Total Value Divisible by K & Game of Life.
+1. DSA: Split Array by Prime Indices, Count islands With Total Value Divisible by K & Game of Life.
 
