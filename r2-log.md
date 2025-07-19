@@ -242,3 +242,10 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Spiral Matrix & Set Matrix Zeroes.
+
+### Day 40: July 19, 2025
+
+Today's Progress: 
+
+1. DSA: Split Array by Prime Indices, Count Islands With Total Value Divisible by K & Game of Life.
+
