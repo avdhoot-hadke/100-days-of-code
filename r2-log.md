@@ -249,3 +249,9 @@ Today's Progress:
 
 1. DSA: Split Array by Prime Indices, Count islands With Total Value Divisible by K & Game of Life.
 
+### Day 41: July 20, 2025
+
+Today's Progress: 
+
+1. DSA: Shortest Path in Binary Matrix, Rotting Oranges, As Far from Land as Possible, Check Divisibility by Digit Sum and Product & Count Number of Trapezoids I.
+
