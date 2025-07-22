@@ -255,3 +255,8 @@ Today's Progress:
 
 1. DSA: Shortest Path in Binary Matrix, Rotting Oranges, As Far from Land as Possible, Check Divisibility by Digit Sum and Product & Count Number of Trapezoids I.
 
+### Day 42: July 22, 2025
+
+Today's Progress: 
+
+1. DSA: Coloring A Border & Number of Closed Islands.
