@@ -266,3 +266,10 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Number of Enclaves & Time Needed to Inform All Employees.
+
+### Day 44: July 26, 2025
+
+Today's Progress: 
+
+1. DSA: Permutations & Permutations II.
+
