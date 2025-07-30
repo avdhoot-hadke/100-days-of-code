@@ -285,3 +285,8 @@ Today's Progress:
 
 1. DSA: Generate Parentheses &  N-Queens.
 
+### Day 47: July 29, 2025
+
+Today's Progress: 
+
+1. DSA: Palindrome Partitioning & Sudoku Solver.
