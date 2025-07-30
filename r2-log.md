@@ -290,3 +290,10 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Palindrome Partitioning & Sudoku Solver.
+
+### Day 48: July 30, 2025
+
+Today's Progress: 
+
+1. DSA: Word Search &  Search in Rotated Sorted Array II.
+
