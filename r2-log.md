@@ -278,3 +278,10 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Combination Sum, Combination Sum II & Combination Sum III.
+
+### Day 46: July 28, 2025
+
+Today's Progress: 
+
+1. DSA: Generate Parentheses &  N-Queens.
+
