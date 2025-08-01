@@ -302,3 +302,10 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Find Peak Element & Find Minimum in Rotated Sorted Array.
+
+### Day 50: August 1, 2025
+
+Today's Progress: 
+
+1. DSA: Minimum Speed to Arrive on Time & Single Element in a Sorted Array.
+
