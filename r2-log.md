@@ -295,5 +295,10 @@ Today's Progress:
 
 Today's Progress: 
 
-1. DSA: Word Search &  Search in Rotated Sorted Array II.
+1. DSA: Word Search & Search in Rotated Sorted Array II.
 
+### Day 49: July 30, 2025
+
+Today's Progress: 
+
+1. DSA: Find Peak Element & Find Minimum in Rotated Sorted Array.
