@@ -309,3 +309,8 @@ Today's Progress:
 
 1. DSA: Minimum Speed to Arrive on Time & Single Element in a Sorted Array.
 
+### Day 51: August 2, 2025
+
+Today's Progress: 
+
+1. DSA: Earliest Finish Time for Land and Water Rides I & II.
