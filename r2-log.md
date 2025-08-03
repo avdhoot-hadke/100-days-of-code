@@ -314,3 +314,10 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Earliest Finish Time for Land and Water Rides I & II.
+
+### Day 52: August 3, 2025
+
+Today's Progress: 
+
+1. DSA: Trionic Array I, Maximum Balanced Shipments & Capacity To Ship Packages Within D Days.
+
