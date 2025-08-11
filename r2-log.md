@@ -353,3 +353,10 @@ Today's Progress:
 
 1. DEV: Revising OOPS. 
 2. DSA: (Codeforces)Lever problem & Alternating Series.
+
+### Day 58: August 11, 2025
+
+Today's Progress: 
+
+1. DSA: Top K Frequent Elements & Kth Largest Element in an Array.
+
