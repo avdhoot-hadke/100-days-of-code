@@ -360,3 +360,8 @@ Today's Progress:
 
 1. DSA: Top K Frequent Elements & Kth Largest Element in an Array.
 
+### Day 59: August 12, 2025
+
+Today's Progress: 
+
+1. DSA: Course Schedule & Course Schedule II.
