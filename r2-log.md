@@ -365,3 +365,10 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Course Schedule & Course Schedule II.
+
+### Day 60: August 16, 2025
+
+Today's Progress: 
+
+1. DSA: Implement Trie (Prefix Tree) & Trie Implementation and Advanced Operations.
+
