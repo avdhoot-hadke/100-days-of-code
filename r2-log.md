@@ -372,3 +372,8 @@ Today's Progress:
 
 1. DSA: Implement Trie (Prefix Tree) & Trie Implementation and Advanced Operations.
 
+### Day 61: August 17, 2025
+
+Today's Progress: 
+
+1. DSA: Find Eventual Safe States & Detect a cycle in an undirected graph.
