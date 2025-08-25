@@ -377,3 +377,9 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Find Eventual Safe States & Detect a cycle in an undirected graph.
+
+### Day 62: August 25, 2025
+
+Today's Progress: 
+
+1. DSA: Dijkstra's algorithm, Shortest path in DAG & Shortest path in undirected graph with unique weight.
