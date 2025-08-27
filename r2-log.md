@@ -383,3 +383,10 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Dijkstra's algorithm, Shortest path in DAG & Shortest path in undirected graph with unique weight.
+
+### Day 63: August 27, 2025
+
+Today's Progress: 
+
+1. DSA: Shortest Distance in a Binary Maze & Print Shortest Path.
+
