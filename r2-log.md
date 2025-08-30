@@ -390,3 +390,11 @@ Today's Progress:
 
 1. DSA: Shortest Distance in a Binary Maze & Print Shortest Path.
 
+### Day 64: August 30, 2025
+
+Today's Progress: 
+
+1. DSA:  Cheapest Flights Within K Stops & Path with minimum effort.
+2. Dev: Revised Java core concepts.
+
+
