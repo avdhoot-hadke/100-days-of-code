@@ -398,3 +398,10 @@ Today's Progress:
 2. Dev: Revised Java core concepts.
 
 
+### Day 65: August 31, 2025
+
+Today's Progress: 
+
+1. DSA:  Number of ways to arrive at destination & Minimum multiplications to reach end.
+2. DEV: Java concepts like Parameter Passing Mechanism, Varargs, hashCode(), Immutability and Modularity.
+
