@@ -410,3 +410,11 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA:  Floyd warshall algorithm & Bellman ford algorithm.
+
+### Day 67: Septembe 07, 2025
+
+Today's Progress: 
+
+1. DSA:  Count Bowl Subarrays,  Minimum Operations to Transform String and Minimum Operations to Equalize Array.
+2. DEV: JAVA OOP concepts.
+
