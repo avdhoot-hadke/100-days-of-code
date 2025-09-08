@@ -418,3 +418,9 @@ Today's Progress:
 1. DSA:  Count Bowl Subarrays,  Minimum Operations to Transform String and Minimum Operations to Equalize Array.
 2. DEV: JAVA OOP concepts.
 
+### Day 68: Septembe 08, 2025
+
+Today's Progress: 
+
+1. DSA:  Balanced K-Factor Decomposition & Restore Finishing Order.
+
