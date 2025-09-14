@@ -436,3 +436,8 @@ Today's Progress:
 
 1. DSA: Jump Game IX, Partition Array Into K-Distinct Groups & GCD of Odd and Even Sums.
 
+### Day 71: Septembe 14, 2025
+
+Today's Progress: 
+
+1. DEV: Started with Spring Boot & Revised SQL queries.
