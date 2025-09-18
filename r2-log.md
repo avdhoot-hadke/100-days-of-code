@@ -441,3 +441,10 @@ Today's Progress:
 Today's Progress: 
 
 1. DEV: Started with Spring Boot & Revised SQL queries.
+
+### Day 72: Septembe 18, 2025
+
+Today's Progress: 
+
+DSA: Minimum Sensors to Cover Grid & Number of Perfect Pairs.
+DEV: Java Spring Boot - build rest service
