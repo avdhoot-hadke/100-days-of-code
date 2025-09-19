@@ -448,3 +448,11 @@ Today's Progress:
 
 DSA: Minimum Sensors to Cover Grid & Number of Perfect Pairs.
 DEV: Java Spring Boot - build rest service
+
+### Day 73: Septembe 19, 2025
+
+Today's Progress: 
+
+DSA: Minimum Cost Path with Edge Reversals & Flip Square matrix vertically.
+Dev: Java POJO, spring ioc & di.
+
