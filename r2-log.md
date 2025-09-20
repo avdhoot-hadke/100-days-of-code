@@ -456,3 +456,10 @@ Today's Progress:
 DSA: Minimum Cost Path with Edge Reversals & Flip Square matrix vertically.
 Dev: Java POJO, spring ioc & di.
 
+### Day 74: Septembe 20, 2025
+
+Today's Progress: 
+
+DSA:  Maximum K to Sort a Permutation & . Maximum Total from Optimal Activation Order.
+
+
