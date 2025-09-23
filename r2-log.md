@@ -462,4 +462,15 @@ Today's Progress:
 
 DSA:  Maximum K to Sort a Permutation & . Maximum Total from Optimal Activation Order.
 
+### Day 75: Septembe 21, 2025
 
+Today's Progress: 
+
+DSA:  Bitwise OR of Even Numbers in an Array & Maximum Total Subarray Value I.
+
+### Day 76: Septembe 23, 2025
+
+Today's Progress: 
+
+DSA:  Validate Binary Search Tree &  Range Sum of BST.
+DEV: Spring’s Aspect-Oriented Programming & Spring’s Resources.
