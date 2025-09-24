@@ -405,72 +405,79 @@ Today's Progress:
 1. DSA:  Number of ways to arrive at destination & Minimum multiplications to reach end.
 2. DEV: Java concepts like Parameter Passing Mechanism, Varargs, hashCode(), Immutability and Modularity.
 
-### Day 66: Septembe 06, 2025
+### Day 66: September 06, 2025
 
 Today's Progress: 
 
 1. DSA:  Floyd warshall algorithm & Bellman ford algorithm.
 
-### Day 67: Septembe 07, 2025
+### Day 67: September 07, 2025
 
 Today's Progress: 
 
 1. DSA:  Count Bowl Subarrays,  Minimum Operations to Transform String and Minimum Operations to Equalize Array.
 2. DEV: JAVA OOP concepts.
 
-### Day 68: Septembe 08, 2025
+### Day 68: September 08, 2025
 
 Today's Progress: 
 
 1. DSA:  Balanced K-Factor Decomposition & Restore Finishing Order.
 
-### Day 69: Septembe 11, 2025
+### Day 69: September 11, 2025
 
 Today's Progress: 
 
 1. DSA: Twisted Mirror Path Count, Find The Least Frequent Digit & Two-Letter Card Game.
 
-### Day 70: Septembe 13, 2025
+### Day 70: September 13, 2025
 
 Today's Progress: 
 
 1. DSA: Jump Game IX, Partition Array Into K-Distinct Groups & GCD of Odd and Even Sums.
 
-### Day 71: Septembe 14, 2025
+### Day 71: September 14, 2025
 
 Today's Progress: 
 
 1. DEV: Started with Spring Boot & Revised SQL queries.
 
-### Day 72: Septembe 18, 2025
+### Day 72: September 18, 2025
 
 Today's Progress: 
 
 DSA: Minimum Sensors to Cover Grid & Number of Perfect Pairs.
 DEV: Java Spring Boot - build rest service
 
-### Day 73: Septembe 19, 2025
+### Day 73: September 19, 2025
 
 Today's Progress: 
 
 DSA: Minimum Cost Path with Edge Reversals & Flip Square matrix vertically.
 Dev: Java POJO, spring ioc & di.
 
-### Day 74: Septembe 20, 2025
+### Day 74: September 20, 2025
 
 Today's Progress: 
 
 DSA:  Maximum K to Sort a Permutation & . Maximum Total from Optimal Activation Order.
 
-### Day 75: Septembe 21, 2025
+### Day 75: September 21, 2025
 
 Today's Progress: 
 
 DSA:  Bitwise OR of Even Numbers in an Array & Maximum Total Subarray Value I.
 
-### Day 76: Septembe 23, 2025
+### Day 76: September 23, 2025
 
 Today's Progress: 
 
 DSA:  Validate Binary Search Tree &  Range Sum of BST.
 DEV: Spring’s Aspect-Oriented Programming & Spring’s Resources.
+
+### Day 77: September 24, 2025
+
+Today's Progress: 
+
+DSA:  Fraction to Recurring Decimal & Minimum Absolute Difference in BST.
+DEV: Spring Boot - Accessing Data with JPA.
