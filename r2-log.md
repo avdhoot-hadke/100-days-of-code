@@ -483,11 +483,15 @@ DSA:  Fraction to Recurring Decimal & Minimum Absolute Difference in BST.
 
 DEV: Spring Boot - Accessing Data with JPA.
 
-
-
 ### Day 78: September 25, 2025
 
 Today's Progress: 
 
 1. DSA:  Insert into a Binary Search Tree & Lowest Common Ancestor of a Binary Search Tree. 
 2. DEV: Spring Boot - Building new project link analysis and shortener.
+
+### Day 79: September 26, 2025
+
+Today's Progress: 
+
+1. DSA: Valid Triangle Number &  Maximum Difference Between Node and Ancestor.
