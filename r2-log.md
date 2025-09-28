@@ -495,3 +495,10 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA: Valid Triangle Number &  Maximum Difference Between Node and Ancestor.
+
+
+### Day 80: September 28, 2025
+
+Today's Progress: 
+
+1. DSA:  Compute Decimal Representation &  Split Array With Minimum Difference.
