@@ -502,3 +502,11 @@ Today's Progress:
 Today's Progress: 
 
 1. DSA:  Compute Decimal Representation &  Split Array With Minimum Difference.
+
+
+### Day 81: October 02, 2025
+
+Today's Progress: 
+
+1. DSA:  Water Bottles II.
+2. DEV: Spring Boot - Learned JwtAuthFilter and JwtUtils.
