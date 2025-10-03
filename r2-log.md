@@ -510,3 +510,10 @@ Today's Progress:
 
 1. DSA:  Water Bottles II.
 2. DEV: Spring Boot - Learned JwtAuthFilter and JwtUtils.
+
+### Day 82: October 03, 2025
+
+Today's Progress: 
+
+1. DSA:  Trapping Rain Water II.
+2. DEV: Spring Boot - Learned Repository and UserServiceImpl.
