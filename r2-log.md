@@ -503,15 +503,21 @@ Today's Progress:
 
 1. DSA:  Compute Decimal Representation &  Split Array With Minimum Difference.
 
+### Day 81: September 29, 2025
 
-### Day 81: October 02, 2025
+Today's Progress: 
+
+1. DSA: Minimum Score Triangulation of Polygon.
+2. DEV: Inprogress Spring security for project.
+
+### Day 82: October 02, 2025
 
 Today's Progress: 
 
 1. DSA:  Water Bottles II.
 2. DEV: Spring Boot - Learned JwtAuthFilter and JwtUtils.
 
-### Day 82: October 03, 2025
+### Day 83: October 03, 2025
 
 Today's Progress: 
 
