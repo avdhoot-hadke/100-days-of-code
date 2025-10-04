@@ -523,3 +523,11 @@ Today's Progress:
 
 1. DSA:  Trapping Rain Water II.
 2. DEV: Spring Boot - Learned Repository and UserServiceImpl.
+
+
+### Day 83: October 03, 2025
+
+Today's Progress: 
+
+1. DSA:  Container With Most Water.
+2. DEV: Spring Boot - Custom Security Config.
