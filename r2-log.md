@@ -539,4 +539,9 @@ Today's Progress:
 
 DSA:  Compute Alternating Sum & Longest Subsequence With Non-Zero Bitwise XOR.
 
+### Day 86: October 08, 2025
 
+Today's Progress: 
+
+DSA:  Successful Pairs of Spells and Potions.
+DEV: Spring boot project created linkMapping controller, service and entity.
