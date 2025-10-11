@@ -545,3 +545,18 @@ Today's Progress:
 
 DSA:  Successful Pairs of Spells and Potions.
 DEV: Spring boot project created linkMapping controller, service and entity.
+
+### Day 87: October 09, 2025
+
+Today's Progress: 
+
+DSA: Find the Minimum Amount of Time to Brew Potions
+DEV: Spring boot project created ClickEvent controller, service and entity.
+
+### Day 88: October 10, 2025
+
+Today's Progress: 
+
+DSA: Taking Maximum Energy From the Mystic Dungeon.
+DEV:Spring boot - Completed the ClickEvent feature of my project.
+DEV:Spring boot - Completed the ClickEvent feature of my project.
