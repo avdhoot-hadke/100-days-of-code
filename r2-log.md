@@ -559,4 +559,10 @@ Today's Progress:
 
 DSA: Taking Maximum Energy From the Mystic Dungeon.
 DEV:Spring boot - Completed the ClickEvent feature of my project.
-DEV:Spring boot - Completed the ClickEvent feature of my project.
+
+
+### Day 89: October 11, 2025
+
+Today's Progress: 
+
+DSA: Maximum Total Damage With Spell Casting, Longest Fibonacci Subarray & Design Exam Scores Tracker.
