@@ -566,3 +566,18 @@ DEV:Spring boot - Completed the ClickEvent feature of my project.
 Today's Progress: 
 
 DSA: Maximum Total Damage With Spell Casting, Longest Fibonacci Subarray & Design Exam Scores Tracker.
+
+
+### Day 90: October 12, 2025
+
+Today's Progress: 
+
+DSA:  Sum of Elements With Frequency Divisible by K & Longest Balanced Substring I.
+
+### Day 91: October 12, 2025
+
+Today's Progress: 
+
+DSA: Find Resultant Array After Removing Anagrams.
+DEV: Spring Boot - Completed the clickEvent and redirect features.
+
