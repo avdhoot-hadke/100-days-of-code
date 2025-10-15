@@ -574,10 +574,18 @@ Today's Progress:
 
 DSA:  Sum of Elements With Frequency Divisible by K & Longest Balanced Substring I.
 
-### Day 91: October 12, 2025
+### Day 91: October 13, 2025
 
 Today's Progress: 
 
 DSA: Find Resultant Array After Removing Anagrams.
 DEV: Spring Boot - Completed the clickEvent and redirect features.
+
+
+### Day 92: October 14, 2025
+
+Today's Progress: 
+
+DSA: Adjacent Increasing Subarrays Detection I.
+DEV: Spring Boot - Started a new project game 2048 completed the user auth.
 
