@@ -589,3 +589,9 @@ Today's Progress:
 DSA: Adjacent Increasing Subarrays Detection I.
 DEV: Spring Boot - Started a new project game 2048 completed the user auth.
 
+### Day 93: October 15, 2025
+
+Today's Progress: 
+
+DSA: Adjacent Increasing Subarrays Detection II.
+DEV: Spring Boot - Completed the backend of  project and completed the frontend auth.
