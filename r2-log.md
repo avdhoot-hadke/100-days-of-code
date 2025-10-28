@@ -595,3 +595,23 @@ Today's Progress:
 
 DSA: Adjacent Increasing Subarrays Detection II.
 DEV: Spring Boot - Completed the backend of  project and completed the frontend auth.
+
+### Day 94: October 26, 2025
+
+Today's Progress: 
+
+DSA: Maximum Alternating Sum of Squares, Stable Subarrays With Equal Boundary and Interior Sum & Remove Zeros in Decimal Representation.
+
+
+### Day 95: October 27, 2025
+
+Today's Progress: 
+
+DSA: Number of Laser Beams in a Bank &  Simple Bank System.
+
+
+### Day 96: October 28, 2025
+
+Today's Progress: 
+
+DSA: Square, Your Name, Isamatdin and His Magic Wand! &  Make Array Elements Equal to Zero
