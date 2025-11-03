@@ -615,3 +615,38 @@ DSA: Number of Laser Beams in a Bank &  Simple Bank System.
 Today's Progress: 
 
 DSA: Square, Your Name, Isamatdin and His Magic Wand! &  Make Array Elements Equal to Zero
+
+
+### Day 97: October 29, 2025
+
+Today's Progress: 
+
+DSA: Lexicographically Smallest String After Reverse &  Smallest Number With All Set Bits.
+
+
+### Day 98: October 29, 2025
+
+Today's Progress: 
+
+DSA:  Minimum Number of Increments on Subarrays to Form a Target Array.
+DEV: Implemented the home page of the project in react.
+
+### Day 99: October 30, 2025
+
+Today's Progress: 
+
+DSA:  Delete Nodes From Linked List Present in Array.
+DEV: Implemented the Navbar, footer, about page and started with registration page.
+
+### Day 100: November 02, 2025
+
+Today's Progress: 
+
+DSA:  Count Unguarded Cells in the Grid, Find Missing Elements & Maximum Product of Three Elements After One Replacement.
+
+### Day 101: November 03, 2025
+
+Today's Progress: 
+
+DSA:   Minimum Time to Make Rope Colorful.
+DEV: Implemented the login and register page in react.
