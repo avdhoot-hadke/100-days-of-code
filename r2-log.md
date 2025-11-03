@@ -628,14 +628,14 @@ DSA: Lexicographically Smallest String After Reverse &  Smallest Number With All
 
 Today's Progress: 
 
-DSA:  Minimum Number of Increments on Subarrays to Form a Target Array.
+DSA:  Minimum Number of Increments on Subarrays to Form a Target Array.  
 DEV: Implemented the home page of the project in react.
 
 ### Day 99: October 30, 2025
 
 Today's Progress: 
 
-DSA:  Delete Nodes From Linked List Present in Array.
+DSA:  Delete Nodes From Linked List Present in Array.  
 DEV: Implemented the Navbar, footer, about page and started with registration page.
 
 ### Day 100: November 02, 2025
@@ -648,5 +648,5 @@ DSA:  Count Unguarded Cells in the Grid, Find Missing Elements & Maximum Product
 
 Today's Progress: 
 
-DSA:   Minimum Time to Make Rope Colorful.
+DSA:   Minimum Time to Make Rope Colorful.  
 DEV: Implemented the login and register page in react.
